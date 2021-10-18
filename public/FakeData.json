@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "serviceName": "Primary Health Care",
+        "image": "https://image.freepik.com/free-vector/old-man-hospital-room_82574-2898.jpg",
+        "description": "Our hospital offers health professionals who act as a first point of consultation for all patients within health care system"
+    },
+    {
+        "id": 2,
+        "serviceName": "Secondary Health Care",
+        "image": "https://image.freepik.com/free-photo/young-doctor-supporting-his-patient_1098-2237.jpg",
+        "description": "Our Emergency department offers necessary treatment for a short period of time for a brier but serious illness"
+    },
+    {
+        "id": 3,
+        "serviceName": "Mental Health and Drug Treatment",
+        "image": "https://img.freepik.com/free-photo/portrait-smiling-handsome-male-doctor-man_171337-5055.jpg?size=338&ext=jpg",
+        "description": "Our Mental care department offers necessary treatment for a short period of time for a brief but serious illness"
+    },
+    {
+        "id": 4,
+        "serviceName": "Dental Services",
+        "image": "https://t4.ftcdn.net/jpg/02/83/35/41/240_F_283354150_HR0W3ee1aUALtHUfH0HhyR9hsfDWQQwY.jpg",
+        "description": "A dedicated team of Health care professionals who are trained and quiped to provide assistance to Patients"
+    },
+    {
+        "id": 5,
+        "serviceName": "Diagonestic Service",
+        "image": "https://image.freepik.com/free-photo/interior-view-operating-room_1170-2254.jpg",
+        "description": "We have modern technology in medical science.The CT scanner makes non invasive precise assessment possible for many specialities"
+    },
+    {
+        "id": 6,
+        "serviceName": "Consult Online",
+        "image": "https://image.freepik.com/free-vector/call-doctor-concept-doctors-answer-patient-questions-phone_1150-50289.jpg",
+        "description": "MediCenter hospital offers you to have consultancy online"
+    },
+    {
+        "id": 7,
+        "serviceName": "Neurology and Neurosurgery",
+        "image": "https://image.freepik.com/free-photo/doctor-protective-wear-checking-hypertension-patient-modern-private-hospital-clinic-during-covid-19-pandemic-health-care-check-medical-medicine-illness-examination-diagnostic_482257-6278.jpg",
+        "description": "A dedicated team of Health care professionals who are trained and quiped to provide assistance to Patients"
+    },
+    {
+        "id": 8,
+        "serviceName": "Colorectal Surgery",
+        "image": "https://image.freepik.com/free-photo/nurse-measuring-patient-blood-pressure_53876-14933.jpg",
+        "description": "Our Emergency department offers necessary treatment for a short period of time for a brier but serious illness"
+    },
+    {
+        "id": 9,
+        "serviceName": "ICU",
+        "image": "https://image.freepik.com/free-vector/old-man-hospital-room_82574-2898.jpg",
+        "description": "Critical Care or Inencive care is a crucial medical specialty caring for patients who are critically ill"
+    }
+]
